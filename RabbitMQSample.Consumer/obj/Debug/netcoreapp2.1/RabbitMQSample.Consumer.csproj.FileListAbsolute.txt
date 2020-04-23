@@ -1,0 +1,11 @@
+/Users/akaraman/MyProjects/RabbitMQSample.Consumer/bin/Debug/netcoreapp2.1/RabbitMQSample.Consumer.deps.json
+/Users/akaraman/MyProjects/RabbitMQSample.Consumer/bin/Debug/netcoreapp2.1/RabbitMQSample.Consumer.runtimeconfig.json
+/Users/akaraman/MyProjects/RabbitMQSample.Consumer/bin/Debug/netcoreapp2.1/RabbitMQSample.Consumer.runtimeconfig.dev.json
+/Users/akaraman/MyProjects/RabbitMQSample.Consumer/bin/Debug/netcoreapp2.1/RabbitMQSample.Consumer.dll
+/Users/akaraman/MyProjects/RabbitMQSample.Consumer/bin/Debug/netcoreapp2.1/RabbitMQSample.Consumer.pdb
+/Users/akaraman/MyProjects/RabbitMQSample.Consumer/obj/Debug/netcoreapp2.1/RabbitMQSample.Consumer.csprojAssemblyReference.cache
+/Users/akaraman/MyProjects/RabbitMQSample.Consumer/obj/Debug/netcoreapp2.1/RabbitMQSample.Consumer.csproj.CoreCompileInputs.cache
+/Users/akaraman/MyProjects/RabbitMQSample.Consumer/obj/Debug/netcoreapp2.1/RabbitMQSample.Consumer.AssemblyInfoInputs.cache
+/Users/akaraman/MyProjects/RabbitMQSample.Consumer/obj/Debug/netcoreapp2.1/RabbitMQSample.Consumer.AssemblyInfo.cs
+/Users/akaraman/MyProjects/RabbitMQSample.Consumer/obj/Debug/netcoreapp2.1/RabbitMQSample.Consumer.dll
+/Users/akaraman/MyProjects/RabbitMQSample.Consumer/obj/Debug/netcoreapp2.1/RabbitMQSample.Consumer.pdb
